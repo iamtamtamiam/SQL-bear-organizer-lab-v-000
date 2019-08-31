@@ -7,6 +7,6 @@ INSERT INTO bears (name) VALUES ("Mr.Chocolate");
 INSERT INTO bears (name) VALUES ("Grinch");
 INSERT INTO bears (name) VALUES ("Wendy");
 INSERT INTO bears (name) VALUES ("Mr.Chocolate");
+binding.pry 
 INSERT INTO bears (name) VALUES ("NULL");
 
-binding.pry 
